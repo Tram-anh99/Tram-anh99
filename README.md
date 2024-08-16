@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Badge](https://img.shields.io/github/followers/thangqd?style=social)](https://github.com/Tram-anh99)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/tramanh879/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://Tram-anh99.github.io/about/)
-[![N Badge](https://img.shields.io/badge/My-CV-critical)]([https://Tram-anh99.github.io/about/](https://tramanh99.notion.site/y-l-Life-wiki-c-a-Tr-m-Anh-9e53c3acceb54e8bb41680c443743d30?pvs=4))
+[![N Badge](https://img.shields.io/badge/My-Notion-critical)]([https://Tram-anh99.github.io/about/](https://tramanh99.notion.site/y-l-Life-wiki-c-a-Tr-m-Anh-9e53c3acceb54e8bb41680c443743d30?pvs=4))
 
 ### About me
 -	3 years’ experience in GIS.
