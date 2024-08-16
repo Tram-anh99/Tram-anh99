@@ -29,4 +29,4 @@ More information about me and my projects can be found on [My Homepage](https://
 
 ---
 
-[![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=Tram-anh99&theme=dawnfox&date_format=j%2Fn%5B%2FY%5D&exclude_days=Fri%2CSat)](https://git.io/streak-stats))
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tram-anh99&theme=dawnfox&date_format=j%2Fn%5B%2FY%5D&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
