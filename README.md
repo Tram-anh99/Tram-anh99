@@ -33,6 +33,6 @@ More information about me and my projects can be found on [My Homepage](https://
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/tramanh879/))
 
-[Notion]: [https://www.youtube.com/channel/UCN03cDDMfrD6Iyxk20_dvmQ](https://tramanh99.notion.site/y-l-Life-wiki-c-a-Tr-m-Anh-9e53c3acceb54e8bb41680c443743d30?pvs=4)
+[Notion](https://tramanh99.notion.site/y-l-Life-wiki-c-a-Tr-m-Anh-9e53c3acceb54e8bb41680c443743d30?pvs=4)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tram-anh99.github.io&theme=dayfox&hide_border=true&locale=vi&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
