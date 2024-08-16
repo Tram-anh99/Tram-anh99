@@ -25,7 +25,7 @@ More information about me and my projects can be found on [My Homepage](https://
 
 ### Projects
 
-- **Learn Blockchain Page:** [Tek4]([https://github.com/thangqd/becagis](https://tek4.vn/khoa-hoc/khoa-hoc-blockchain-co-ban/blockchain-la-gi)) | [200Lab]((https://200lab.io/)) | [Machine Learning cơ bản]([https://github.com/thangqd/HCMGIS](https://machinelearningcoban.com/2016/12/27/categories/))
+- **Learn Blockchain Page:** [Tek4](https://tek4.vn/khoa-hoc/khoa-hoc-blockchain-co-ban/blockchain-la-gi) | [200Lab](https://200lab.io/) | [Machine Learning cơ bản](https://machinelearningcoban.com/2016/12/27/categories/)
 
 ---
 
